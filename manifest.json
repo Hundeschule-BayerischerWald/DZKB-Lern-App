@@ -1,0 +1,22 @@
+
+{
+  "name": "Dog´s Life Academy",
+  "short_name": "Dog´s Life",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#6C5CE7",
+  "theme_color": "#6C5CE7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://dogs-life-academy.com/wp-content/uploads/2021/01/Logo-Dogs-Life.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://dogs-life-academy.com/wp-content/uploads/2021/01/Logo-Dogs-Life.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
